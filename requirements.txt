@@ -1,5 +1,3 @@
-!pip install dash dash_core_components dash_html_components pandas plotly openpyxl pyngrok
-
 from __future__ import absolute_import, division, print_function
 
 import os
