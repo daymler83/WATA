@@ -10,3 +10,4 @@ dependencies:
     - dash-html-components
     - pandas
     - plotly
+    - plotly-dash-jupyterlab-extension
