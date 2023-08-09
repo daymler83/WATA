@@ -1,11 +1,6 @@
-from __future__ import absolute_import, division, print_function
-
-import os
-import sys
-
-import dash
-import dash_core_components as dcc
-import dash_html_components as html
-import pandas as pd
-import plotly.graph_objects as go
-from pyngrok import ngrok
+dash
+dash-core-components
+dash-html-components
+pandas
+plotly
+openpyxl
