@@ -1,0 +1,12 @@
+name: my-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - dash
+    - dash-core-components
+    - dash-html-components
+    - pandas
+    - plotly
